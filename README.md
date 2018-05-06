@@ -1,3 +1,7 @@
+# Release
+
+This fork provides a compiled version of Seurat for Windows (with Visual Studio 2017 x64) and its associated viewer utility (Butterfly). The binary can be found in the GitHub Releases tab for this repository. 
+
 # Seurat - Documentation
 
 ## What is Seurat?
